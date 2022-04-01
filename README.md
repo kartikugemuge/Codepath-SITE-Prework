@@ -39,10 +39,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
+Win Condition
 ![Win Condition](https://user-images.githubusercontent.com/55012882/161351117-37a4da9c-e8cd-445b-be56-38d4a2fca252.gif)
 
+Losing via stikes
 ![Losing via stikes](https://user-images.githubusercontent.com/55012882/161351181-cdffa7cd-111c-418a-adb7-555d4c940c7c.gif)
 
+Losing via time
 ![Losing via time](https://user-images.githubusercontent.com/55012882/161351191-b6a024ad-7faf-4b90-86cb-75f533d1da50.gif)
 
 
